@@ -1,5 +1,7 @@
 # Análise de desempenho em licitações públicas com SQL e Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?logo=sqlite&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-medidas-1F6FEB) ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346)
+
 > ⚠️ **Dados 100% fictícios**, criados para estudo. Não representam nenhuma empresa ou órgão real.
 
 Projeto em duas etapas: **exploração em SQL** (SQLite) e **dashboard executivo em Power BI**, respondendo onde uma empresa de gestão em saúde ganha e perde pregões, e por quê.
